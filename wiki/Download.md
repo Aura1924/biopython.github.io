@@ -30,7 +30,7 @@ tool ``pip``, which allows an easy installation from the command line on
 all platforms. Try:
 
 ``` bash
-pip install biopython
+ pip install biopython
 ```
 
 For updating an older version of Biopython try:
